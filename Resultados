@@ -95,4 +95,4 @@ Epoch: 8 	Training Loss: 0.494636 	Validation Loss: 0.467548
 Epoch: 9 	Training Loss: 0.464323 	Validation Loss: 0.502863
 Epoch: 10 	Training Loss: 0.451118 	Validation Loss: 0.467043
 best_epoch = 10
-
+Accuracy   = 0.755
